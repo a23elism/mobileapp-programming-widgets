@@ -7,7 +7,6 @@ Lagt till 3st Widgets (imageView, editText och button)
 + men resultatet hade blivit detsamma)
 
 Programkod:
-
 ```
 #IMAGEVIEW
         app:layout_constraintBottom_toBottomOf="parent"
