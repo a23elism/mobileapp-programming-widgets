@@ -2,9 +2,9 @@
 # Rapport
 
 Lagt till 3st Widgets (imageView, editText och button)
-+ fixat constraints o margin med hjälp av ConstraintLayout 
-+ (OBS! visste inte om jag skulle lägga till en ny ConstraintLayout eller inte
-+ men resultatet hade blivit detsamma)
+fixat constraints o margin med hjälp av ConstraintLayout 
+(OBS! visste inte om jag skulle lägga till en ny ConstraintLayout eller inte
+men resultatet hade blivit detsamma)
 
 Programkod:
 ```
